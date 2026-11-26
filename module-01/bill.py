@@ -8,3 +8,5 @@ item_total = item_price * item_qty
 with_gst = item_total*1.18 
 
 print(f"The total amount of {item_qty} x {item_name} is {item_total} and with gst its {with_gst}.")
+
+
