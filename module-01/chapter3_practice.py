@@ -1,13 +1,13 @@
 # Task 1
 
-# user_input = float(input("Please enter temperature in Celcius: "))
+user_input = float(input("Please enter temperature in Celcius: "))
 
-# if user_input <15:
-#     print("Cold")
-# elif user_input <=30:
-#     print("Pleasant")
-# else:
-#     print("Hot")
+if user_input <15:
+    print("Cold")
+elif user_input <=30:
+    print("Pleasant")
+else:
+    print("Hot")
 
 # Task 2# 
 
